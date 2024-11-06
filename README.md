@@ -1,0 +1,1 @@
+script : ts-node-dev --respawn --transpile-only conceptual-typescript-practice/src/problems-tasks/8.prb.ts
